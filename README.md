@@ -10,3 +10,6 @@ The fire spread model can be used using the object fire_model
   1. Wind direction which is a vector to determine the direction of wind. 
   2. Moisture levels, using a randomly generated matrix. 
 
+Example of Generated simulation after 50 steps:
+ ![Simulation Image](https://github.com/AmeanAsad/Fire-Spread-Model/blob/master/fire_sim1.jpeg?raw=true)
+ 
